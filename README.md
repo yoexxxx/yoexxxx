@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Привет, я Влад!
 
-<!--
-**yoexxxx/yoexxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе:
+Студент и начинающий Java-разработчик (стажёр)  Изучаю Java около года и развиваюсь в направлении backend-разработки.
+Постоянно учусь и стараюсь осваивать новые технологии. Открыт для стажировок и совместных проектов!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технический стек
+- Java, Spring Boot, Spring MVC, Spring Data JPA (Hibernate), AOP  
+- RESTful API, Maven  
+- MySQL, SQLite, SQL  
+- Docker, Kubernetes (в процессе изучения)
+- JUnit, Mockito (в процессе изучения)  
+- Микросервисная архитектура (в процессе изучения)  
+
+---
+
+## 📫 Контакты
+- Email: filimon0508@gmail.com 
+- Telegram: [@vllllaaddd](https://t.me/vllllaaddd) 
